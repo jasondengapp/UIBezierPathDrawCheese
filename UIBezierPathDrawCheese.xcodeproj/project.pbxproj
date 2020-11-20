@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FF6109932566131D00EDEA7A /* UIBezierPathDrawThePinkPanther.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIBezierPathDrawThePinkPanther.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF6109932566131D00EDEA7A /* UIBezierPathDrawCheese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIBezierPathDrawCheese.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF6109962566131D00EDEA7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF6109982566131D00EDEA7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FF61099A2566131D00EDEA7A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		FF6109942566131D00EDEA7A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF6109932566131D00EDEA7A /* UIBezierPathDrawThePinkPanther.app */,
+				FF6109932566131D00EDEA7A /* UIBezierPathDrawCheese.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF6109922566131D00EDEA7A /* UIBezierPathDrawThePinkPanther */ = {
+		FF6109922566131D00EDEA7A /* UIBezierPathDrawCheese */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF6109A72566131F00EDEA7A /* Build configuration list for PBXNativeTarget "UIBezierPathDrawThePinkPanther" */;
+			buildConfigurationList = FF6109A72566131F00EDEA7A /* Build configuration list for PBXNativeTarget "UIBezierPathDrawCheese" */;
 			buildPhases = (
 				FF61098F2566131D00EDEA7A /* Sources */,
 				FF6109902566131D00EDEA7A /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = UIBezierPathDrawThePinkPanther;
+			name = UIBezierPathDrawCheese;
 			productName = UIBezierPathDrawThePinkPanther;
-			productReference = FF6109932566131D00EDEA7A /* UIBezierPathDrawThePinkPanther.app */;
+			productReference = FF6109932566131D00EDEA7A /* UIBezierPathDrawCheese.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FF61098E2566131D00EDEA7A /* Build configuration list for PBXProject "UIBezierPathDrawThePinkPanther" */;
+			buildConfigurationList = FF61098E2566131D00EDEA7A /* Build configuration list for PBXProject "UIBezierPathDrawCheese" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF6109922566131D00EDEA7A /* UIBezierPathDrawThePinkPanther */,
+				FF6109922566131D00EDEA7A /* UIBezierPathDrawCheese */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF61098E2566131D00EDEA7A /* Build configuration list for PBXProject "UIBezierPathDrawThePinkPanther" */ = {
+		FF61098E2566131D00EDEA7A /* Build configuration list for PBXProject "UIBezierPathDrawCheese" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF6109A52566131F00EDEA7A /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF6109A72566131F00EDEA7A /* Build configuration list for PBXNativeTarget "UIBezierPathDrawThePinkPanther" */ = {
+		FF6109A72566131F00EDEA7A /* Build configuration list for PBXNativeTarget "UIBezierPathDrawCheese" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF6109A82566131F00EDEA7A /* Debug */,

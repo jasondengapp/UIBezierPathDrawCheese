@@ -41,10 +41,12 @@ struct DrawView: UIViewRepresentable {
         // 鼻
         let noserect = CGRect(x: 98.5, y: 85, width: 32, height: 30)
         let nosePath = UIBezierPath(roundedRect: noserect, cornerRadius: 20)
-        // 嘴
+        // 嘴-開心
         let mouthPath = UIBezierPath()
-        mouthPath.move(to: CGPoint(x: 92, y: 134))
-        mouthPath.addCurve(to: CGPoint(x: 136, y: 137), controlPoint1: CGPoint(x: 88, y: 120), controlPoint2: CGPoint(x: 140, y: 118))
+        mouthPath.move(to: CGPoint(x: 92, y: 114))
+        mouthPath.addCurve(to: CGPoint(x: 136, y: 117), controlPoint1: CGPoint(x: 88, y: 125), controlPoint2: CGPoint(x: 140, y: 128))
+//        // 嘴-生氣
+//        mouthPath.addCurve(to: CGPoint(x: 136, y: 137), controlPoint1: CGPoint(x: 88, y: 120), controlPoint2: CGPoint(x: 140, y: 118))
         // 鈴噹
         let bellPath = UIBezierPath()
         bellPath.move(to: CGPoint(x: 101, y: 148))
